@@ -27,7 +27,7 @@ A gestão de pautas na UA apresenta vários desafios que têm vindo a ser resolv
 Com o desenvolvimento do nova plataforma PACO 2.0, pretende-se modernizar o módulo de gestão das pautas na UA.
 
 ### Objetivos:
-O novo módulo de gestão das pautas para o PACO 2.0 deve os seguintes módulos e funcionalidades:
+O novo módulo de gestão das pautas para o PACO 2.0 deve ter os seguintes módulos e funcionalidades:
 1. Componente de apresentação das pautas já lançadas e das que aguardam tratamento;
 2. Edição da pauta que deve permitir o *upload* e *download* das notas;
 3. Componente de edição das notas na pauta;
